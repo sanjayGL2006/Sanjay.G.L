@@ -1,0 +1,5 @@
+{
+  "name": "Temple Donation Manager",
+  "description": "A secure system for managing temple festival donations with Google Sheets sync, UPI QR codes, and WhatsApp sharing.",
+  "requestFramePermissions": []
+}
